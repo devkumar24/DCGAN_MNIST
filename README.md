@@ -115,7 +115,7 @@ plt.imshow(output_30.reshape((28,28)))
   
    ![Image](LOSS_GRAPH.png)
     
-    This Image clearly tells that generator loss is increasing and discriminator loss is decreasing beacuse your 
+    This Image clearly tells that generator loss is increasing and discriminator loss is decreasing beacuse our 
     model successfully generates images that you discriminator fails to catch.
     
     
