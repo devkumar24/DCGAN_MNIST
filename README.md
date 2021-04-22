@@ -138,7 +138,7 @@ In this Image we can't recognize what kind of Images we have made.
       
 In this Image, we can clearly see many images, but if train upto 40 epochs, we can much better results than this,
 and in case if we try with 30 epochs, we need to change the parameters, I have tried with ```Adam(lr = 2e-4,beta_1 = 0.05)```, you can try your own parameters 
-and compare your results.
+and compare your results. **Adam is just one parameter, other parameters have been mentioned in main.py.
       
       
       
